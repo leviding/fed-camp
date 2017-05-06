@@ -59,8 +59,15 @@ T型计划 是 `www.TOMerge.com` (网站正在建设中，暂未上线) 的计�
 
 如果有不方便公开讨论的问题，可以通过邮件 `mail@tomerge.com` 联系我们。
 
-关注我的微信公众号：搜索 `leviding` 或扫描下方二维码
-![微信公众号：LeviDing](/asset/weixin.jpg)
+如果有不方便公开讨论的问题或其他事项，可以通过发邮件至 `mail@tomerge.com` 联系我。
+
+欢迎加入 QQ 讨论群：`637481811`
+
+如想加入微信群，则加微信号 `levi0528` 并注明加微信群
+
+更加欢迎关注我的微信公众号：搜索 `leviding` 或扫描下方二维码
+
+![微信公众号：LeviDing](asset/weixin.jpg)
 
 <br />
 
