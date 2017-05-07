@@ -5,7 +5,7 @@
 1. [近期更新计划](#近期更新计划)
 2. [官方指南](#官方指南)
 3. [这是一个什么样的计划](#这是一个什么样的计划)
-4. [我们为什么要办这个计划](#我为什么们要办这个计划)
+4. [我们为什么要办这个计划](#我们为什么要办这个计划)
 5. [我们的优势](#我们的优势)
 6. [参与方式](#参与方式)
 7. [其他](#其他)
@@ -85,9 +85,9 @@ T型计划 是 `www.TOMerge.com` (网站正在建设中，暂未上线) 的计�
 
 4. 打开 fork 到你个人仓库的 T-Plan 项目，在[题目列表](https://github.com/leviding/T-Plan/tree/master/tasks)中按照你的个人情况自行选择需要做的题目，但是我们建议从头做起，把前端基础知识打好；
 
-5. 选好题目后自行完成题目，需要交流可以提 [issues](https://github.com/leviding/T-Plan/issues/new) 或加入 QQ 群等。如需寻找题目合作者，也可以提 [issues](https://github.com/leviding/T-Plan/issues/new)。
+5. 选好题目后自行完成题目，需要交流可以通过加入 QQ 群等方式。如需寻找题目合作者，可以按照规范提 [issues](https://github.com/leviding/T-Plan/issues/new)。
 
-6. 题目完成后自行将题目传至自己的仓库（不要传至 T-Plan 仓库），之后在 T-Plan 项目的 [Participants](https://github.com/leviding/T-Plan/tree/master/participants) 文件夹中按照文件 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式或稍微变更，新建一个以你 GitHub ID 命名的 `Markdown` 文件，并按照 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式在以你 GitHub ID 命名的文件中将相应的链接填写好，注意，；
+6. 题目完成后自行将题目传至自己的仓库（不要传至 T-Plan 仓库），之后在你 fork 的 T-Plan 项目的 [Participants](https://github.com/leviding/T-Plan/tree/master/participants) 文件夹中按照文件 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式或稍微变更，新建一个以你 GitHub ID 命名的 `Markdown` 文件，并按照 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式在以你 GitHub ID 命名的文件中将相应的链接填写好，注意，；
 
 7. 在项目 [T-Plan](https://github.com/leviding/T-Plan) 中点击 [New pull request](https://github.com/leviding/T-Plan/compare) 对以你 GitHub ID 命名的文件进行提交，之后管理员进行浏览和审核，如果通过了，就算做你完成了一次作业，你将会出现在项目的 [contributor](https://github.com/leviding/T-Plan/graphs/contributors) 列表当中；
 
