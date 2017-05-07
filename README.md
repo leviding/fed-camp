@@ -16,15 +16,7 @@
 
 ## 近期更新计划
 
-近期将会推出 [T-Plan 2.0](https://github.com/t-plan)
-
-- 对 T-Plan 项目结构进行优化
-- 增加线上共享笔记功能
-- 增加分享面试资料和面经的功能
-- 增加线上征集项目合作者的功能
-- 上线 [T-Plan 项目官方网站](http://tplan.tomerge.com)
-- 针对不同基础的同学，推出不同难度的题目
-- 在题目中增加建议学习时长
+近期将会推出 [T-Plan 2.0](https://github.com/t-plan)，近期更新计划请见：[Update-plan](https://github.com/t-plan/Update-plan)。
 
 <br />
 
