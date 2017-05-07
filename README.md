@@ -87,9 +87,9 @@ T型计划 是 `www.TOMerge.com` (网站正在建设中，暂未上线) 的计�
 
 5. 选好题目后自行完成题目，需要交流可以通过加入 QQ 群等方式。如需寻找题目合作者，可以按照规范提 [issues](https://github.com/leviding/T-Plan/issues/new)。
 
-6. 题目完成后自行将题目传至自己的仓库（不要传至 T-Plan 仓库），之后在你 fork 的 T-Plan 项目的 [Participants](https://github.com/leviding/T-Plan/tree/master/participants) 文件夹中按照文件 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式或稍微变更，新建一个以你 GitHub ID 命名的 `Markdown` 文件，并按照 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式在以你 GitHub ID 命名的文件中将相应的链接填写好，注意，；
+6. **题目完成后自行将题目传至自己的仓库（不要传至 T-Plan 仓库）**，之后在你 fork 的 T-Plan 项目的 [Participants](https://github.com/leviding/T-Plan/tree/master/participants) 文件夹中按照文件 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式或稍微变更，新建一个以你 GitHub ID 命名的 `Markdown` 文件，并按照 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式在以你 GitHub ID 命名的文件中将你完成题目的代码和在线演示的链接填写好；
 
-7. 在项目 [T-Plan](https://github.com/leviding/T-Plan) 中点击 [New pull request](https://github.com/leviding/T-Plan/compare) 对以你 GitHub ID 命名的文件进行提交，之后管理员进行浏览和审核，如果通过了，就算做你完成了一次作业，你将会出现在项目的 [contributor](https://github.com/leviding/T-Plan/graphs/contributors) 列表当中；
+7. 以上步骤都完成后，你就可以在项目 [T-Plan](https://github.com/leviding/T-Plan) 中点击 [New pull request](https://github.com/leviding/T-Plan/compare) 对以你 GitHub ID 命名的 Markdown 文件进行提交，之后管理员进行浏览和审核，如果通过了，就算做你完成了一次作业，你将会出现在项目的 [contributor](https://github.com/leviding/T-Plan/graphs/contributors) 列表当中；
 
 8. 如果你的 PR 没通过，你需要按照本项目的相应规定对自己的题目和文档进行检查，修改好后重新 PR，直至 PR 通过。
 
@@ -97,7 +97,8 @@ T型计划 是 `www.TOMerge.com` (网站正在建设中，暂未上线) 的计�
 
 **注意事项**
 
-1. 如果中途因为个人原因退出，可以随时与我们沟通，发送你的个人信息和退出原因到邮箱 ：mail(at)tomerge.com。
+1. 如果中途因为个人原因退出，可以随时与我们沟通，发送你的个人信息和退出原因到邮箱 ：mail(at)tomerge.com；
+2. 一定注意这一条：**题目完成后自行将题目传至自己的仓库（不要传至 T-Plan 仓库）**，之后在你 fork 的 T-Plan 项目的 [Participants](https://github.com/leviding/T-Plan/tree/master/participants) 文件夹中按照文件 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式或稍微变更，新建一个以你 GitHub ID 命名的 `Markdown` 文件，并按照 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式在以你 GitHub ID 命名的文件中将你完成题目的代码和在线演示的链接填写好；
 
 <br />
 
