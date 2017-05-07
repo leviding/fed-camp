@@ -2,29 +2,31 @@
 
 目录：
 
-1. [这是一个什么样的计划](#这是一个什么样的计划)
+1. [官方指南](#官方指南)
+2. [这是一个什么样的计划](#这是一个什么样的计划)
+3. [我为什么们要办这个计划](#我为什么们要办这个计划)
+4. [我们的优势](#我们的优势)
+5. [参与方式](#参与方式)
+6. [注意事项](#注意事项)
+7. [其他](#其他)
+8. [联系我们](#联系我们)
+9. [我们的优势](#我们的优势)
 
-2. [我为什么们要办这个计划](#我为什么们要办这个计划)
+手机访问的同学不要忘记请点击下方的 “View all of README.md” 查看完整信息。
 
-3. [我们的优势](#我们的优势)
+## 官方指南：
 
-4. [参与方式](#参与方式)
+- [T型计划介绍](https://github.com/leviding/T-Plan/wiki)
+- [题目汇总](https://github.com/leviding/T-Plan/wiki/%E9%A2%98%E7%9B%AE%E6%B1%87%E6%80%BB)
+- [提 issues 和 PR 的正确姿势](https://github.com/leviding/T-Plan/wiki/%E6%8F%90-issues-%E5%92%8C-PR-%E7%9A%84%E6%AD%A3%E7%A1%AE%E5%A7%BF%E5%8A%BF)
+- [T型计划成员列表](https://github.com/leviding/T-Plan/wiki/T%E5%9E%8B%E8%AE%A1%E5%88%92%E6%88%90%E5%91%98%E5%88%97%E8%A1%A8)
+- [Q&A 汇总](https://github.com/leviding/T-Plan/wiki/Q-&-A-%E6%B1%87%E6%80%BB)
 
-5. [注意事项](#注意事项)
-
-6. [其他](#其他)
-
-7. [联系我们](#联系我们)
-
-8. [我们的优势](#我们的优势)
-
-
-
-手机访问的同学不要忘记请点击下方的“View all of README.md”查看完整信息。
+<br />
 
 ## 这是一个什么样的计划
 
-T型计划 是 `www.TOMerge.com` (网站正在建设中，暂未上线) 的计划之一，是由 [LeviDing](https://github.com/leviding) 出品的面向前端初学者和前端基础知识不扎实的同学的练习平台，希望能将大家集结在一起，更加有趣、高效、系统地学习 Web 前端技术。内容基于 [Baidu IFE](http://ife.baidu.com/)。
+T型计划 是 `www.TOMerge.com` (网站正在建设中，暂未上线) 的计划之一，是由 [LeviDing](https://github.com/leviding) 出品的面向前端初学者、前端基础知识不扎实和其他想要大幅提高前端技能的同学的练习及征集合作者的平台，希望能将大家集结在一起，更加有趣、高效、系统地学习 Web 前端技术。内容基于 [Baidu IFE](http://ife.baidu.com/)。
 
 <br />
 
@@ -34,18 +36,29 @@ T型计划 是 `www.TOMerge.com` (网站正在建设中，暂未上线) 的计�
 
 &emsp;&emsp;我们希望通过自己微薄的力量能够为想要学习和正在学习前端的同学提供一个平台，更好的督促大家完成好 [Baidu IFE](http://ife.baidu.com/) 等优秀平台的题目，也希望借此机会能够传播、分享一些我们在前端领域的一些积累。希望能够吸引到优秀的、热爱前端的同学加入进来。
 
+<br />
+
+## 我们的优势
+
+1. 通过参与本计划，你可以在扎实基础外，获得实际项目中的团队协作经验，对项目流程了解的更加深入；
+2. 针对不同层次提供了不同的题目，可以进行针对性练习；
+3. 不受时间和人数限制，随加随做，非常灵活；
+4. 参与者较多，你可以在 issues 下寻找你的小伙伴一去做项目，体验什么是团队协作；
+5. 每个人做的题目的代码均以链接形式保存在 [participants](https://github.com/leviding/T-Plan/tree/master/participants) 文件夹下以该同学 GitHub ID 命名的 Markdown 文件中，方便大家学习别人的代码，交到更多的朋友；
+6. 你可以通过 PR，向项目贡献代码来提高你的个人影响力。
+7. 未完待续...
+
+<br />
+
+## 参与方式
+
 对于初学者来说，学习前端技术时最大的困扰有以下三个方面：
 
 - 前端技术点非常多，无从下手，总感觉东一榔头、西一棒槌，缺乏系统性
 - 缺乏有效的实践，尤其在没有实习机会时，很难有效、主动地进行代码实践
 - 缺乏指导
 
-&emsp;&emsp;基于这三个因素，本计划做以下安排：提供一系列由浅入深，由点到面的编码挑战任务，并把前端所需要的各种技术知识点通过实践来让同学们学会。同时，我们会安排大家的学习交流，分享学习心得同时交流学习难点。QQ 群号：`637481811`。
-
-
-<br />
-
-## 参与方式
+&emsp;&emsp;基于这三个因素，本计划做以下安排：提供一系列由浅入深，由点到面的编码挑战任务，并把前端所需要的各种技术知识点通过实践来让同学们学会。同时，我们会安排大家的学习交流，分享学习心得同时交流学习难点，QQ 群号：`637481811`。
 
 按照以下几个步骤即可成功参与进来：
 
@@ -56,13 +69,11 @@ T型计划 是 `www.TOMerge.com` (网站正在建设中，暂未上线) 的计�
 
 3. 如需在线交流，欢迎加入 QQ 交流群：637481811；
 
-4. 打开 fork 到你的个人仓库 T-Plan 项目，在[题目列表](https://github.com/leviding/T-Plan/tree/master/tasks)按照你的个人情况自行选择需要做的题目，但是我们建议从头做起，把前端基础知识打好；
+4. 打开 fork 到你个人仓库的 T-Plan 项目，在[题目列表](https://github.com/leviding/T-Plan/tree/master/tasks)按照你的个人情况自行选择需要做的题目，但是我们建议从头做起，把前端基础知识打好；
 
-5. 选好题目后自行完成题目，需要交流可以提 [issues](https://github.com/leviding/T-Plan/issues/new) 或加入 QQ 群等。题目完成后自行将题目传至自己的仓库（不要传至 T-Plan 仓库），之后在 T-Plan 项目的 [Participants](https://github.com/leviding/T-Plan/tree/master/participants)文件夹中按照文件 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式新建一个以你 GitHub ID 命名的 `Markdown` 文件；
+5. 选好题目后自行完成题目，需要交流可以提 [issues](https://github.com/leviding/T-Plan/issues/new) 或加入 QQ 群等。如需寻找题目合作者，也可以提 [issues](https://github.com/leviding/T-Plan/issues/new)。
 
-5. 
-
-6. 当你把题目做完后，按照 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式在以你 GitHub ID 命名的文件中将相应的链接填写好；
+6. 题目完成后自行将题目传至自己的仓库（不要传至 T-Plan 仓库），之后在 T-Plan 项目的 [Participants](https://github.com/leviding/T-Plan/tree/master/participants) 文件夹中按照文件 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式或稍微变更，新建一个以你 GitHub ID 命名的 `Markdown` 文件，并按照 [Demo](https://github.com/leviding/T-Plan/blob/master/participants/Demo.md) 的格式在以你 GitHub ID 命名的文件中将相应的链接填写好，注意，；
 
 7. 在项目 [T-Plan](https://github.com/leviding/T-Plan) 中点击 [New pull request](https://github.com/leviding/T-Plan/compare) 对以你 GitHub ID 命名的文件进行提交，之后管理员进行浏览和审核，如果通过了，就算做你完成了一次作业，你将会出现在项目的 [contributor](https://github.com/leviding/T-Plan/graphs/contributors) 列表当中；
 
