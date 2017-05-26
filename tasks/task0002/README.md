@@ -1,11 +1,12 @@
-﻿# Task0005：零基础HTML及CSS编码（二）
-> 面向人群：始终没搞懂定位问题，每次靠碰运气实现定位的人
+﻿# Task0002：零基础HTML及CSS编码（一）
+
+> 面向人群：零基础或初学者
 >
 > 难度：简单
 >
-> 建议时长：3小时
+> 建议时长：5小时
 >
-> 本题目原地址：[百度前端技术学院](http://ife.baidu.com/2016/task/detail?taskId=5)
+> 本题目原地址：[百度前端技术学院](http://ife.baidu.com/2016/task/detail?taskId=2)
 
 <br />
 
@@ -17,7 +18,7 @@
 
 <br />
 
-## 任务目标
+## 任务目的
 
 - 针对设计稿样式进行合理的HTML架构，包括以下但不限于：
 - 掌握常用HTML标签的含义、用法
@@ -28,19 +29,19 @@
 - 掌握CSS选择器的含义和用法
 - 实践并掌握CSS的颜色、字体、背景、边框、盒模型、简单布局等样式的定义方式
 
-<br />
-
-## 任务描述
-
-- 基于第一个任务“零基础HTML编码”的代码，参考[示例图（点击打开）](images/task0004_5.jpg) 的效果
-- 头部和底部的黑色区域始终是100%宽
-- 页面右侧部分为固定宽度，左侧保持与浏览器窗口变化同步自适应变化
-- 左侧的各个模块里面的内容宽度跟随左侧整体宽度同步自适应变化
-- 10张图片需要永远都完整展现，所以会随着宽度变窄，从两行变成三行甚至更多，也有可能随着宽度变宽，变成一行
+参考示[例图（点击查看）](images/task0001_2.jpg)，完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）。
 
 <br />
 
 ## 任务注意事项
+
+- 只需要完成HTML代码编写，不需要写CSS
+- 示例图仅为参考，不需要完全实现一致，其中的图片、文案均可自行设定
+- 尽可能多地尝试更多的HTML标签
+
+<br />
+
+## 任务协作建议
 
 - 只需要完成HTML，CSS代码编写，不需要写JavaScript
 - 示例图仅为参考，不需要完全实现一致，其中的图片、文案均可自行设定
@@ -49,29 +50,18 @@
 
 <br />
 
-## 任务协作建议
+## 在线学习参考资料
 
-- 团队集中讨论，明确题目要求，保证队伍各自对题目要求认知一致
-- 各自完成任务实践
-- 交叉互相Review其他人的代码，建议每个人至少看一个同组队友的代码
-- 头部、底部及整体左右布局架构
-- 右侧表单
-- 前面两篇文章部分
-- 图片部分
-- 表格部分
-- 交叉互相Review其他人的代码，建议每个人至少看一个同组队友的代码
-- 相互讨论，最后合成一份组内最佳代码进行提交
-
-<br />
-
-## 参考资料
-
+- [MDN CSS入门](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started)
 - [MDN HTML入门](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Introduction)
-- [MDN CSS入门教程](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started)
 - [慕课HTML+CSS基础教程视频](http://www.imooc.com/learn/9)
 
 <br />
 
 ## Copyright
 
-本题源自[百度前端技术学院](http://ife.baidu.com/2016/task/detail?taskId=5)，版权归[百度前端技术学院](http://ife.baidu.com/)所有。
+本题源自[百度前端技术学院](http://ife.baidu.com/2016/task/detail?taskId=1)，版权归[百度前端技术学院](http://ife.baidu.com/)所有。
+
+
+
+
